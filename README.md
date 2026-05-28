@@ -91,14 +91,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <br/>       
 
 ### 📊 Estatísticas
-<p align="center">
+<p>
   <img 
-    width="49%" 
-    src="https://github-readme-stats-tau-sepia-12.vercel.app/api?username=JoaoPauloCAbreu&show_icons=true&theme=react&locale=pt-br&hide_border=true" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-tau-sepia-12.vercel.app/api?username=JoaoPauloCAbreu&show_icons=true&theme=react&locale=pt-br" 
   />
-  
-  <img 
-    width="37%" 
-    src="https://github-readme-stats-tau-sepia-12.vercel.app/api/top-langs/?username=JoaoPauloCAbreu&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats-tau-sepia-12.vercel.app/api/top-langs/?username=JoaoPauloCAbreu&show_icons=true&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
   />
+
 </p>

@@ -102,7 +102,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
   <img 
       align="left" 
       alt="GitHub Stats" 
-      padding="200px" 
+      height="200px" 
       src="https://github-readme-stats-tau-sepia-12.vercel.app/api/top-langs/?username=JoaoPauloCAbreu&show_icons=true&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
   />
 

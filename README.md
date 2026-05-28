@@ -99,7 +99,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     style="padding-right: 10px;" 
     src="https://github-readme-stats-tau-sepia-12.vercel.app/api?username=JoaoPauloCAbreu&show_icons=true&theme=react&locale=pt-br" 
   />
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
